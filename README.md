@@ -300,8 +300,8 @@ shipping when ready.
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
 [![Gmail](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](YOUR_INSTAGRAM_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=9AA4B2)](YOUR_YOUTUBE_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](https://www.instagram.com/vxnshk.037/)
+
 
 <br />
 
