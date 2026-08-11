@@ -128,68 +128,33 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 
 <br />
 
-## Featured Builds
+## Projects
 
 <br />
 
-### FinLens
-**A financial dashboard built to make raw numbers readable.**
-
-**What it does** — Turns financial data into a visual, interactive dashboard instead of a spreadsheet.
-
-**Built with** — React · Vite · Tailwind CSS
-
-**Interesting part** — Designing the data visualization layer to stay readable and responsive across screen sizes.
-
-**Status** — `Building`
-
-
-[`LIVE DEMO`](YOUR_PROJECT_URL) · [`SOURCE CODE`](YOUR_PROJECT_URL)
+**Modern Pulveriser**
+A real-world B2B industrial website presenting products and services through a modern, responsive interface.
+**Tech:** HTML · CSS · JavaScript
+[`Live`](https://www.modernpulveriser.com/)
 
 <br />
 
-### Financial Crime Investigator
-**Turning raw transaction CSVs into flagged, investigable activity.**
-
-**What it does** — Ingests transaction data, builds a transaction graph, scores risk, and surfaces suspicious activity for investigation.
-
-**Built with** — Python · Graph logic · Data processing · Dashboard UI
-
-**Interesting part** — The pipeline from flat CSV rows to a graph structure that risk-scoring can actually run on.
-
-**Status** — `Building`
-
-```text
-CSV DATA
-   ↓
-PARSER
-   ↓
-TRANSACTION GRAPH
-   ↓
-RISK ENGINE
-   ↓
-SUSPICIOUS ACTIVITY
-   ↓
-INVESTIGATION
-```
-
-
-[`LIVE DEMO`](YOUR_PROJECT_URL) · [`SOURCE CODE`](YOUR_PROJECT_URL)
+**Financial Crime Investigator**
+Processes CSV transaction data, builds transaction graphs, applies risk analysis, and surfaces suspicious activity for investigation.
+**Tech:** Node.js · Express · JavaScript · CSV parsing · Graph visualization
 
 <br />
 
-### LeetCode Profile Analyzer
-**A small tool for looking at your own problem-solving patterns.**
+**FinLens**
+A financial analytics interface presenting data through dashboards and interactive visualizations.
+**Tech:** React · Vite · Tailwind CSS
 
-**What it does** — Pulls coding statistics and turns them into a readable, visual breakdown of solving activity.
+<br />
 
-**Built with** — JavaScript · APIs · Data visualization
-
-**Interesting part** — Building something that's genuinely useful for my own DSA tracking, not just a portfolio piece.
-
-**Status** — `Experimental / In Progress`
-
-[`LIVE DEMO`](YOUR_PROJECT_URL) · [`SOURCE CODE`](YOUR_PROJECT_URL)
+**LeetCode Profile Analyzer**
+Analyzes and visualizes LeetCode profile and problem-solving data.
+**Tech:** JavaScript · APIs · Data visualization
+`Experimental / In Progress`
 
 <br />
 
@@ -258,12 +223,12 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
 </div>
 
