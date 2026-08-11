@@ -1,8 +1,33 @@
 <div align="center">
 
-<img src="https://github.com/solosurfer-37.png" width="120" style="border-radius:50%" alt="profile photo" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<br /><br />
+```text
+● ● ●
+────────────────────────────────────
+ ██▒   █▓ ▄▄▄       ███▄    █   ██████  ██░ ██ 
+▓██░   █▒▒████▄     ██ ▀█   █ ▒██    ▒ ▓██░ ██▒
+ ▓██  █▒░▒██  ▀█▄  ▓██  ▀█ ██▒░ ▓██▄   ▒██▀▀██░
+  ▒██ █░░░██▄▄▄▄██ ▓██▒  ▐▌██▒  ▒   ██▒░▓█ ░██ 
+   ▒▀█░   ▓█   ▓██▒▒██░   ▓██░▒██████▒▒░▓█▒░██▓
+   ░ ▐░   ▒▒   ▓▒█░░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒
+   ░ ░░    ▒   ▒▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<sub>● ● ●</sub>
+
+<img src="https://github.com/solosurfer-37.png" width="140" style="border-radius:6px" alt="profile photo" />
+
+</td>
+</tr>
+</table>
+
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=9AA4B2&center=true&vCenter=true&width=460&lines=whoami;student+%2B+developer+%2B+builder;still+early.+still+building." alt="typing banner" />
 
@@ -16,12 +41,9 @@
 
 BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
-<br />
-
-
 <br /><br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
+[![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
 [![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
 
