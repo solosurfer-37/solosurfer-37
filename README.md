@@ -7,13 +7,12 @@
 ```text
 ● ● ●
 ────────────────────────────────────
- ██▒   █▓ ▄▄▄       ███▄    █   ██████  ██░ ██ 
-▓██░   █▒▒████▄     ██ ▀█   █ ▒██    ▒ ▓██░ ██▒
- ▓██  █▒░▒██  ▀█▄  ▓██  ▀█ ██▒░ ▓██▄   ▒██▀▀██░
-  ▒██ █░░░██▄▄▄▄██ ▓██▒  ▐▌██▒  ▒   ██▒░▓█ ░██ 
-   ▒▀█░   ▓█   ▓██▒▒██░   ▓██░▒██████▒▒░▓█▒░██▓
-   ░ ▐░   ▒▒   ▓▒█░░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒
-   ░ ░░    ▒   ▒▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░
+██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
+██║   ██║███████║██╔██╗ ██║███████╗███████║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
+ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 ```
 
 </td>
@@ -27,13 +26,11 @@
 </tr>
 </table>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=9AA4B2&center=true&vCenter=true&width=460&lines=whoami;student+%2B+developer+%2B+builder;still+early.+still+building." alt="typing banner" />
-
-<br />
+<br /><br />
 
 # VANSH KUMAR
+
+<br />
 
 `Developer` · `Student` · `Builder`
 
@@ -143,6 +140,7 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=9AA4B2)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9AA4B2)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
+![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square&logo=pycharm&logoColor=9AA4B2)
 
 <br />
 
@@ -245,12 +243,12 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&icon_color=BFC4CB&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="49%" alt="github stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="35%" alt="top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
 </div>
 
