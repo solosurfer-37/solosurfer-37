@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=460&lines=whoami;student+%2B+developer+%2B+builder;still+early.+still+building." alt="typing banner" />
+<img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="120" style="border-radius:50%" alt="profile photo" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=9AA4B2&center=true&vCenter=true&width=460&lines=whoami;student+%2B+developer+%2B+builder;still+early.+still+building." alt="typing banner" />
 
 <br />
 
@@ -18,9 +22,9 @@ BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
 <br /><br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-0B0D10?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=11151A)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-0B0D10?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=11151A)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-0B0D10?style=for-the-badge&logo=gmail&logoColor=7C5CFF&labelColor=11151A)](mailto:vanshk.0037@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
+[![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
 
 </div>
 
@@ -97,27 +101,27 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 
 **Building With**
 
-![C](https://img.shields.io/badge/C-11151A?style=flat-square&logo=c&logoColor=00D9FF)
-![C++](https://img.shields.io/badge/C%2B%2B-11151A?style=flat-square&logo=cplusplus&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/Python-11151A?style=flat-square&logo=python&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-11151A?style=flat-square&logo=javascript&logoColor=00D9FF)
-![React](https://img.shields.io/badge/React-11151A?style=flat-square&logo=react&logoColor=00D9FF)
-![Vite](https://img.shields.io/badge/Vite-11151A?style=flat-square&logo=vite&logoColor=00D9FF)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-11151A?style=flat-square&logo=tailwindcss&logoColor=00D9FF)
-![HTML](https://img.shields.io/badge/HTML-11151A?style=flat-square&logo=html5&logoColor=00D9FF)
-![CSS](https://img.shields.io/badge/CSS-11151A?style=flat-square&logo=css3&logoColor=00D9FF)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=D0D3D8)
+![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=flat-square&logo=cplusplus&logoColor=D0D3D8)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=D0D3D8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=D0D3D8)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=D0D3D8)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=D0D3D8)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=D0D3D8)
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=D0D3D8)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=D0D3D8)
 
 **Learning**
 
-![Supabase](https://img.shields.io/badge/Supabase-11151A?style=flat-square&logo=supabase&logoColor=7C5CFF)
-![REST APIs](https://img.shields.io/badge/REST_APIs-11151A?style=flat-square&logo=fastapi&logoColor=7C5CFF)
-![Backend](https://img.shields.io/badge/Backend_Fundamentals-11151A?style=flat-square&logo=node.js&logoColor=7C5CFF)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=9AA4B2)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=fastapi&logoColor=9AA4B2)
+![Backend](https://img.shields.io/badge/Backend_Fundamentals-1a1a1a?style=flat-square&logo=node.js&logoColor=9AA4B2)
 
 **Familiar**
 
-![Git](https://img.shields.io/badge/Git-11151A?style=flat-square&logo=git&logoColor=9AA4B2)
-![GitHub](https://img.shields.io/badge/GitHub-11151A?style=flat-square&logo=github&logoColor=9AA4B2)
-![VS Code](https://img.shields.io/badge/VS_Code-11151A?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=9AA4B2)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9AA4B2)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
 
 <br />
 
@@ -261,12 +265,12 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0B0D10&title_color=00D9FF&icon_color=7C5CFF&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0B0D10&title_color=00D9FF&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0B0D10&stroke=252B33&ring=00D9FF&fire=7C5CFF&currStreakLabel=00D9FF&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
 </div>
 
@@ -278,11 +282,11 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-11151A?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151A?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Gmail](https://img.shields.io/badge/Email-11151A?style=for-the-badge&logo=gmail&logoColor=7C5CFF)](mailto:vanshk.0037@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-11151A?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](YOUR_INSTAGRAM_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-11151A?style=for-the-badge&logo=youtube&logoColor=9AA4B2)](YOUR_YOUTUBE_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
+[![Gmail](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](YOUR_INSTAGRAM_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=9AA4B2)](YOUR_YOUTUBE_URL)
 
 <br />
 
