@@ -183,23 +183,6 @@ Analyzes and visualizes LeetCode profile and problem-solving data.
 ---
 
 <br />
-
-## Motion Lab
-
-*A few pieces of interface and motion work — not just backend logic.*
-
-**01 — Interface Motion**
-Hover states, transitions, and micro-interactions from various UI work.
-
-**02 — Project Demo**
-Full product walkthrough of a featured build.
-
-**03 — Data Visualization**
-Animated charts / graphs in action.
-
-**04 — Experimental Motion**
-A motion experiment outside of a specific project.
-
 <br />
 
 ---
