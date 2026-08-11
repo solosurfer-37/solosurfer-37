@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="120" style="border-radius:50%" alt="profile photo" />
+<img src="https://github.com/solosurfer-37.png" width="120" style="border-radius:50%" alt="profile photo" />
 
 <br /><br />
 
@@ -18,11 +18,10 @@ BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
 <br />
 
-<img src="YOUR_HERO_ANIMATION_GIF_URL" width="850" alt="hero animation — replace with terminal/code/workspace loop" />
 
 <br /><br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
 [![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
 
@@ -144,7 +143,6 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 
 **Status** — `Building`
 
-<img src="YOUR_FINLENS_DEMO_GIF_URL" width="800" alt="FinLens demo" />
 
 [`LIVE DEMO`](YOUR_PROJECT_URL) · [`SOURCE CODE`](YOUR_PROJECT_URL)
 
@@ -175,7 +173,6 @@ SUSPICIOUS ACTIVITY
 INVESTIGATION
 ```
 
-<img src="YOUR_FINANCIAL_CRIME_DEMO_GIF_URL" width="800" alt="Financial Crime Investigator demo" />
 
 [`LIVE DEMO`](YOUR_PROJECT_URL) · [`SOURCE CODE`](YOUR_PROJECT_URL)
 
@@ -206,19 +203,15 @@ INVESTIGATION
 
 **01 — Interface Motion**
 Hover states, transitions, and micro-interactions from various UI work.
-<img src="YOUR_INTERFACE_ANIMATION_URL" width="700" alt="interface motion" />
 
 **02 — Project Demo**
 Full product walkthrough of a featured build.
-<img src="YOUR_PROJECT_ANIMATION_URL" width="700" alt="project demo motion" />
 
 **03 — Data Visualization**
 Animated charts / graphs in action.
-<img src="YOUR_DATA_ANIMATION_URL" width="700" alt="data visualization motion" />
 
 **04 — Experimental Motion**
 A motion experiment outside of a specific project.
-<img src="YOUR_EXPERIMENT_ANIMATION_URL" width="700" alt="experimental motion" />
 
 <br />
 
@@ -265,12 +258,12 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&icon_color=9AA4B2&text_color=9AA4B2&border_color=252B33&hide_border=false" width="49%" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D0D3D8&text_color=9AA4B2&border_color=252B33&hide_border=false" width="35%" alt="top languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=252B33&ring=D0D3D8&fire=9AA4B2&currStreakLabel=D0D3D8&sideLabels=9AA4B2&dates=9AA4B2&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
 </div>
 
@@ -282,7 +275,7 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
 [![Gmail](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](YOUR_INSTAGRAM_URL)
