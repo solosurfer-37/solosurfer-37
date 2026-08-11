@@ -132,6 +132,8 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 **Learning**
 
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=9AA4B2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=9AA4B2)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=9AA4B2)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=fastapi&logoColor=9AA4B2)
 ![Backend](https://img.shields.io/badge/Backend_Fundamentals-1a1a1a?style=flat-square&logo=node.js&logoColor=9AA4B2)
 
@@ -235,6 +237,55 @@ Solving on LeetCode as part of daily practice — no fabricated numbers here, ju
 
 <br />
 
+---
+
+<br />
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&icon_color=BFC4CB&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="49%" alt="github stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="35%" alt="top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/solosurfer-37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
+[![Gmail](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](YOUR_INSTAGRAM_URL)
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+```text
+────────────────────────────────────
+
+learning in public.
+building in private.
+shipping when ready.
+
+────────────────────────────────────
+```
+
+</div>
 ---
 
 <br />
