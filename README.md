@@ -64,6 +64,18 @@ Right now I'm not trying to be an expert at anything. I'm trying to get *good fu
 
 <br />
 
+## Portfolio
+
+Everything I build eventually shows up here.
+
+[![Portfolio](https://img.shields.io/badge/vkportfolio.vercel.app-1a1a1a?style=for-the-badge&logoColor=F2F4F7&labelColor=2b2b2b)](https://vkportfolio.vercel.app/)
+
+<br />
+
+---
+
+<br />
+
 ## Tech Stack
 
 **Building With**
