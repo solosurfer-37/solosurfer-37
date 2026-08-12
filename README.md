@@ -64,57 +64,6 @@ Right now I'm not trying to be an expert at anything. I'm trying to get *good fu
 
 <br />
 
-## Terminal Identity
-
-```text
-$ whoami
-
-vansh@github
-────────────────────────────────────────
-role       →  student developer
-focus      →  DSA + software development
-building   →  real-world projects
-learning   →  backend fundamentals
-location   →  Delhi, India
-status     →  building...
-```
-
-<br />
-
----
-
-<br />
-
-## Current Direction
-
-```text
-Programming
-     ↓
-DSA
-     ↓
-Problem Solving
-     ↓
-Frontend
-     ↓
-Backend
-     ↓
-Real-World Projects
-```
-
-<br />
-
-## How I Learn
-
-```text
-LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
-```
-
-<br />
-
----
-
-<br />
-
 ## Tech Stack
 
 **Building With**
@@ -143,75 +92,6 @@ LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD → SHIP
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9AA4B2)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square&logo=pycharm&logoColor=9AA4B2)
-
-<br />
-
----
-
-<br />
-
-## Projects
-
-<br />
-
-**Modern Pulveriser**
-A real-world B2B industrial website presenting products and services through a modern, responsive interface.
-**Tech:** HTML · CSS · JavaScript
-[`Live`](https://www.modernpulveriser.com/)
-
-<br />
-
-**Financial Crime Investigator**
-Processes CSV transaction data, builds transaction graphs, applies risk analysis, and surfaces suspicious activity for investigation.
-**Tech:** Node.js · Express · JavaScript · CSV parsing · Graph visualization
-
-<br />
-
-**FinLens**
-A financial analytics interface presenting data through dashboards and interactive visualizations.
-**Tech:** React · Vite · Tailwind CSS
-
-<br />
-
-**LeetCode Profile Analyzer**
-Analyzes and visualizes LeetCode profile and problem-solving data.
-**Tech:** JavaScript · APIs · Data visualization
-`Experimental / In Progress`
-
-<br />
-
----
-
-<br />
-
-## DSA
-
-Working through the fundamentals, consistently, not all at once.
-
-```text
-Arrays          Strings         Linked Lists
-Stacks & Queues Sorting         Searching
-Recursion       Trees           Graphs
-Dynamic Programming
-```
-
-Solving on LeetCode as part of daily practice — no fabricated numbers here, just consistent reps.
-
-<br />
-
----
-
-<br />
-
-## Build Log
-
-```text
-[01] Improving DSA
-[02] Building software projects
-[03] Experimenting with UI motion
-[04] Learning backend development
-[05] Shipping → breaking → rebuilding
-```
 
 <br />
 
