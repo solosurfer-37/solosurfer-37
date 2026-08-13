@@ -124,7 +124,7 @@ Everything I build eventually shows up here.
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/4A4F58/solosurfer-37" width="80%" alt="contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solosurfer-37&theme=github_dark" width="80%" alt="contribution graph" />
 
 </div>
 
@@ -159,4 +159,4 @@ shipping when ready.
 ────────────────────────────────────
 ```
 
-</div>iv>
+</div>
