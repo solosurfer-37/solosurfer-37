@@ -122,13 +122,6 @@ Everything I build eventually shows up here.
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solosurfer-37/solosurfer-37/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/solosurfer-37/solosurfer-37/output/github-snake.svg" width="80%" alt="contribution snake" />
-</picture>
-
 </div>
 
 <br />
@@ -163,11 +156,6 @@ shipping when ready.
 ```
 
 </div>
-
-learning in public.
-building in private.
-shipping when ready.
-
 ────────────────────────────────────
 ```
 
