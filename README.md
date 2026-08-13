@@ -122,6 +122,10 @@ Everything I build eventually shows up here.
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
 
+<br /><br />
+
+<img src="https://ghchart.rshah.org/9AA4B2/solosurfer-37" width="80%" alt="contribution graph" />
+
 </div>
 
 <br />
@@ -156,7 +160,6 @@ shipping when ready.
 ```
 
 </div>
-────────────────────────────────────
 ```
 
 </div>
