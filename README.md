@@ -124,7 +124,7 @@ Everything I build eventually shows up here.
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/9AA4B2/solosurfer-37" width="80%" alt="contribution graph" />
+<img src="https://ghchart.rshah.org/solosurfer-37" width="80%" alt="contribution graph" />
 
 </div>
 
@@ -157,9 +157,6 @@ building in private.
 shipping when ready.
 
 ────────────────────────────────────
-```
-
-</div>
 ```
 
 </div>
