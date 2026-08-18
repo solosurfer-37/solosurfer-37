@@ -150,11 +150,13 @@ AI / ML · LLMs · FastAPI · PyTorch
 ---
 
 <br />
+
+
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/solosurfer-37" width="90%" alt="GitHub contribution calendar" />
+<img src="https://gh-heat.anishroy.com/api/solosurfer-37/svg?theme=green&darkMode=true&bg=0d0d0d" width="90%" alt="GitHub contribution calendar" />
 
 </div>
 
