@@ -16,6 +16,7 @@
 ```
 
 </td>
+
 <td width="42%" align="center" valign="middle">
 
 <sub>● ● ●</sub>
@@ -26,11 +27,9 @@
 </tr>
 </table>
 
-<br /><br />
+<br />
 
 # VANSH KUMAR
-
-<br />
 
 `Developer` · `Student` · `Builder`
 
@@ -38,11 +37,11 @@
 
 BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
-<br /><br />
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge\&logo=github\&logoColor=F2F4F7\&labelColor=2b2b2b)](https://github.com/solosurfer-37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge\&logo=linkedin\&logoColor=D0D3D8\&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
+[![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge\&logo=gmail\&logoColor=D0D3D8\&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
 
 </div>
 
@@ -52,31 +51,21 @@ BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
 <br />
 
+## Currently
 
-## GitHub Activity
+```text
+DSA → Software Engineering → AI / ML
 
-<div align="center">
+learning fundamentals.
+building real projects.
+figuring things out by building.
+```
 
-<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&icon_color=BFC4CB&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="49%" alt="github stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="35%" alt="top languages" />
+I'm currently focused on strengthening my DSA and software engineering fundamentals while moving deeper into AI/ML and LLM-based development.
 
-<br />
+The goal isn't to collect technologies.
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solosurfer-37&theme=github_dark" width="80%" alt="contribution graph" />
-
-</div>
-
-<br />
-
-## Intro
-
-I'm a second-year CSE student who spends most of his time somewhere between a DSA sheet and a half-broken React project. I like taking things apart — literally and in code — to figure out why they work, then rebuilding them slightly better.
-
-Right now I'm not trying to be an expert at anything. I'm trying to get *good fundamentals*, ship real projects, and get comfortable being wrong until I'm not.
+It's to understand them well enough to build useful things with them.
 
 <br />
 
@@ -84,11 +73,18 @@ Right now I'm not trying to be an expert at anything. I'm trying to get *good fu
 
 <br />
 
-## Portfolio
+## Projects
 
-Everything I build eventually shows up here.
+A few things I've built while learning.
 
-[![Portfolio](https://img.shields.io/badge/vkportfolio.vercel.app-1a1a1a?style=for-the-badge&logoColor=F2F4F7&labelColor=2b2b2b)](https://vkportfolio.vercel.app/)
+| Project                          | What it does                                                                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **FinLens**                      | Financial intelligence platform focused on analysing financial data and presenting insights through an interactive interface. |
+| **Financial Crime Investigator** | Transaction analysis system that detects suspicious patterns using graph-based analysis and risk scoring.                     |
+| **TripMate**                     | Java OOP project for managing trips, expenses and travellers while applying core object-oriented concepts.                    |
+| **Plusshyy**                     | Full-stack gifting platform built with React and Supabase.                                                                    |
+
+> More projects → **[GitHub Repositories](https://github.com/solosurfer-37?tab=repositories)**
 
 <br />
 
@@ -98,32 +94,41 @@ Everything I build eventually shows up here.
 
 ## Tech Stack
 
-**Building With**
+### Languages
 
-![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=D0D3D8)
-![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=flat-square&logo=cplusplus&logoColor=D0D3D8)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=D0D3D8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=D0D3D8)
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=D0D3D8)
-![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=D0D3D8)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=D0D3D8)
-![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=D0D3D8)
-![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=D0D3D8)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square\&logo=c\&logoColor=D0D3D8)
+![C++](https://img.shields.io/badge/C%2B%2B-1a1a1a?style=flat-square\&logo=cplusplus\&logoColor=D0D3D8)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square\&logo=python\&logoColor=D0D3D8)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square\&logo=openjdk\&logoColor=D0D3D8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square\&logo=javascript\&logoColor=D0D3D8)
 
-**Learning**
+### Development
 
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=9AA4B2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=9AA4B2)
-![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=9AA4B2)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=fastapi&logoColor=9AA4B2)
-![Backend](https://img.shields.io/badge/Backend_Fundamentals-1a1a1a?style=flat-square&logo=node.js&logoColor=9AA4B2)
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square\&logo=html5\&logoColor=D0D3D8)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square\&logo=css3\&logoColor=D0D3D8)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square\&logo=react\&logoColor=D0D3D8)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square\&logo=vite\&logoColor=D0D3D8)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square\&logo=tailwindcss\&logoColor=D0D3D8)
 
-**Familiar**
+### Data & Backend
 
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=9AA4B2)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9AA4B2)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
-![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square&logo=pycharm&logoColor=9AA4B2)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square\&logo=mysql\&logoColor=9AA4B2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square\&logo=postgresql\&logoColor=9AA4B2)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square\&logo=supabase\&logoColor=9AA4B2)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square\&logo=fastapi\&logoColor=9AA4B2)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square\&logo=git\&logoColor=9AA4B2)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square\&logo=github\&logoColor=9AA4B2)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square\&logo=visualstudiocode\&logoColor=9AA4B2)
+![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square\&logo=pycharm\&logoColor=9AA4B2)
+
+### Exploring
+
+```text
+AI / ML · LLMs · FastAPI · PyTorch
+```
 
 <br />
 
@@ -131,18 +136,66 @@ Everything I build eventually shows up here.
 
 <br />
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=solosurfer-37&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&icon_color=BFC4CB&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="49%" alt="github stats" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solosurfer-37&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E4E6EA&text_color=9AA0A8&border_color=2b2b2b&hide_border=false" width="35%" alt="top languages" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="streak stats" />
+
+</div>
+
+<br />
+
 ---
 
 <br />
 
-## Contact
+## About
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/solosurfer-37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Gmail](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](https://www.instagram.com/vxnshk.037/)
+I'm a second-year CSE student who learns best by building.
+
+I started with web development, moved deeper into programming and DSA, and I'm now exploring AI/ML with a focus on actually building things rather than just studying the theory.
+
+I enjoy taking a problem apart, understanding how the pieces work, and then trying to build my own version.
+
+Still learning. Still breaking things. Still shipping.
 
 <br />
+
+---
+
+<br />
+
+## Portfolio
+
+Everything I build eventually ends up here.
+
+[![Portfolio](https://img.shields.io/badge/vkportfolio.vercel.app-1a1a1a?style=for-the-badge\&logoColor=F2F4F7\&labelColor=2b2b2b)](https://vkportfolio.vercel.app/)
+
+<br />
+
+---
+
+<br />
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge\&logo=github\&logoColor=F2F4F7)](https://github.com/solosurfer-37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge\&logo=linkedin\&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge\&logo=gmail\&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge\&logo=instagram\&logoColor=9AA4B2)](https://www.instagram.com/vxnshk.037/)
+
+</div>
+
+<br /><br />
 
 ---
 
