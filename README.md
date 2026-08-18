@@ -63,9 +63,7 @@ figuring things out by building.
 
 I'm currently focused on strengthening my DSA and software engineering fundamentals while moving deeper into AI/ML and LLM-based development.
 
-The goal isn't to collect technologies.
-
-It's to understand them well enough to build useful things with them.
+I'm less interested in collecting technologies and more interested in understanding how things actually work — then using that knowledge to build something useful.
 
 <br />
 
@@ -75,16 +73,33 @@ It's to understand them well enough to build useful things with them.
 
 ## Projects
 
-A few things I've built while learning.
+A few things I've built while learning, experimenting, and shipping.
 
-| Project                          | What it does                                                                                                                  |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **FinLens**                      | Financial intelligence platform focused on analysing financial data and presenting insights through an interactive interface. |
-| **Financial Crime Investigator** | Transaction analysis system that detects suspicious patterns using graph-based analysis and risk scoring.                     |
-| **TripMate**                     | Java OOP project for managing trips, expenses and travellers while applying core object-oriented concepts.                    |
-| **Plusshyy**                     | Full-stack gifting platform built with React and Supabase.                                                                    |
+### Modern Pulveriser
 
-> More projects → **[GitHub Repositories](https://github.com/solosurfer-37?tab=repositories)**
+Industrial B2B website built for a pulveriser manufacturing business, focused on product presentation, responsive design, and a clean professional experience.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### FinLens v2
+
+A financial intelligence platform designed to analyse and visualise financial data through an interactive dashboard.
+
+**Stack:** `HTML` `CSS` `JavaScript` `Python` `Backend APIs`
+
+---
+
+### Plusshyy
+
+A modern full-stack gifting platform built with React and Supabase, combining a clean frontend with database-backed functionality.
+
+**Stack:** `React` `Supabase` `JavaScript`
+
+<br />
+
+> **[Explore all repositories →](https://github.com/solosurfer-37?tab=repositories)**
 
 <br />
 
@@ -124,7 +139,7 @@ A few things I've built while learning.
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square\&logo=visualstudiocode\&logoColor=9AA4B2)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square\&logo=pycharm\&logoColor=9AA4B2)
 
-### Exploring
+### Currently Exploring
 
 ```text
 AI / ML · LLMs · FastAPI · PyTorch
@@ -160,9 +175,9 @@ AI / ML · LLMs · FastAPI · PyTorch
 
 I'm a second-year CSE student who learns best by building.
 
-I started with web development, moved deeper into programming and DSA, and I'm now exploring AI/ML with a focus on actually building things rather than just studying the theory.
+I started with web development, moved deeper into programming and DSA, and I'm now exploring AI/ML with a focus on building practical systems rather than just studying the theory.
 
-I enjoy taking a problem apart, understanding how the pieces work, and then trying to build my own version.
+I enjoy taking problems apart, understanding how the pieces fit together, and rebuilding them in my own way.
 
 Still learning. Still breaking things. Still shipping.
 
