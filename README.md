@@ -150,17 +150,15 @@ AI / ML · LLMs · FastAPI · PyTorch
 ---
 
 <br />
-
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=solosurfer-37&bg_color=0d0d0d&color=E4E6EA&line=BFC4CB&point=F2F4F7&area=true&hide_border=true" width="90%" alt="GitHub contribution activity graph" />
+<img src="https://ghchart.rshah.org/solosurfer-37" width="90%" alt="GitHub contribution calendar" />
 
 </div>
 
 <br />
-
 ---
 
 <br />
