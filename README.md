@@ -155,11 +155,7 @@ AI / ML · LLMs · FastAPI · PyTorch
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solosurfer-37&theme=github_dark" width="90%" alt="GitHub contribution graph" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=solosurfer-37&theme=dark&background=0d0d0d&stroke=2b2b2b&ring=E4E6EA&fire=BFC4CB&currStreakLabel=E4E6EA&sideLabels=9AA0A8&dates=9AA0A8&currStreakNum=F2F4F7&sideNums=F2F4F7" width="60%" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=solosurfer-37&bg_color=0d0d0d&color=E4E6EA&line=BFC4CB&point=F2F4F7&area=true&hide_border=true" width="90%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -218,16 +214,6 @@ Everything I build eventually ends up here.
 
 ```text
 ────────────────────────────────────
-
-learning in public.
-building in private.
-shipping when ready.
-
-────────────────────────────────────
-```
-
-</div>
-
 
 learning in public.
 building in private.
