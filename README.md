@@ -71,39 +71,6 @@ I'm less interested in collecting technologies and more interested in understand
 
 <br />
 
-## Projects
-
-A few things I've built while learning, experimenting, and shipping.
-
-### Modern Pulveriser
-
-Industrial B2B website built for a pulveriser manufacturing business, focused on product presentation, responsive design, and a clean professional experience.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### FinLens v2
-
-A financial intelligence platform designed to analyse and visualise financial data through an interactive dashboard.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Python` `Backend APIs`
-
----
-
-### Plusshyy
-
-A modern full-stack gifting platform built with React and Supabase, combining a clean frontend with database-backed functionality.
-
-**Stack:** `React` `Supabase` `JavaScript`
-
-<br />
-
-> **[Explore all repositories →](https://github.com/solosurfer-37?tab=repositories)**
-
-<br />
-
----
 
 <br />
 
