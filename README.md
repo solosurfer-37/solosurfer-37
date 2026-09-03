@@ -35,7 +35,6 @@
 
 **Building things to understand how they work.**
 
-BTech CSE · Manipal University Jaipur · 2nd Year · Delhi, India
 
 <br />
 
