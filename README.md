@@ -131,20 +131,6 @@ AI / ML · LLMs · FastAPI · PyTorch
 
 <br />
 
-## About
-
-I'm a second-year CSE student who learns best by building.
-
-I started with web development, moved deeper into programming and DSA, and I'm now exploring AI/ML with a focus on building practical systems rather than just studying the theory.
-
-I enjoy taking problems apart, understanding how the pieces fit together, and rebuilding them in my own way.
-
-Still learning. Still breaking things. Still shipping.
-
-<br />
-
----
-
 <br />
 
 ## Portfolio
