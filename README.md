@@ -123,7 +123,7 @@ I'm less interested in collecting technologies and more interested in understand
 
 <img
   src="https://raw.githubusercontent.com/solosurfer-37/solosurfer-37/main/dist/pet.svg"
-  width="100"
+  width="1000"
   alt="My pixel pet"
 />
 
