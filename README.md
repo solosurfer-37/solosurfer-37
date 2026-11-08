@@ -1,27 +1,37 @@
  <div align="center">
 
+<div align="center">
 <table>
 <tr>
-<td width="48%" valign="middle">
+<td valign="middle" width="58%">
 
-# VANSH KUMAR
+<pre>
+██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
+██║   ██║███████║██╔██╗ ██║███████║███████║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
+ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+</pre>
 
-`Developer` · `Student` · `Builder`
+**Developer · Student · Builder**
 
-**Building things to understand how they work.**
+*Building things to understand how they work.*
 
 </td>
-<td width="17%" align="center" valign="middle">
 
-<img src="https://github.com/solosurfer-37.png" width="110" alt="Vansh Kumar" />
-
+<td align="center" valign="middle" width="17%">
+<img src="https://github.com/solosurfer-37.png" width="115" alt="Vansh" />
 </td>
-<td width="35%" align="center" valign="middle">
 
-<img src="koi/koi.gif" width="220" alt="My Git Koi" />
-
+<td align="center" valign="middle" width="25%">
+<img src="koi/koi.gif" width="190" alt="Git Koi" />
 </td>
 </tr>
+</table>
+</div>
+
+---</tr>
 </table>
 
 [![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
