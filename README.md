@@ -1,46 +1,45 @@
- <div align="center">
-
 <div align="center">
+
 <table>
 <tr>
-<td valign="middle" width="58%">
+<td width="56%" valign="middle">
 
-<pre>
+```text
+● ● ●
+────────────────────────────────────
 ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
 ██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
-██║   ██║███████║██╔██╗ ██║███████║███████║
+██║   ██║███████║██╔██╗ ██║███████╗███████║
 ╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
  ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
-</pre>
-
-**Developer · Student · Builder**
-
-*Building things to understand how they work.*
+```
 
 </td>
+<td width="22%" align="center" valign="middle">
 
-<td align="center" valign="middle" width="17%">
-<img src="https://github.com/solosurfer-37.png" width="115" alt="Vansh" />
+<img src="https://github.com/solosurfer-37.png" width="150" alt="Vansh Kumar profile photo" />
+
 </td>
+<td width="22%" align="center" valign="middle">
 
-<td align="center" valign="middle" width="25%">
-<img src="koi/koi.gif" width="190" alt="Git Koi" />
+<img src="koi/koi.gif" width="150" alt="Animated git koi" />
+
 </td>
 </tr>
 </table>
-</div>
 
----</tr>
-</table>
+# VANSH KUMAR
+
+`Developer` · `Student` · `Builder`
+
+**Building things to understand how they work.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
 [![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
 
 </div>
-
----
 
 ## Currently
 
@@ -54,9 +53,7 @@ figuring things out by building.
 
 I'm currently focused on strengthening my DSA and software engineering fundamentals while moving deeper into AI/ML and LLM-based development.
 
-I'm less interested in collecting technologies and more interested in understanding how things actually work — then using that knowledge to build something useful.
-
----
+I'm less interested in collecting technologies and more interested in understanding how things actually work, then using that knowledge to build something useful.
 
 ## Tech Stack
 
@@ -74,39 +71,33 @@ I'm less interested in collecting technologies and more interested in understand
 ![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=D0D3D8)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=D0D3D8)
 ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=D0D3D8)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=D0D3D8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=D0D3D8)
 
 ### Data & Backend
 
-![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=9AA4B2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=9AA4B2)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=9AA4B2)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=fastapi&logoColor=9AA4B2)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=D0D3D8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=D0D3D8)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=D0D3D8)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=fastapi&logoColor=D0D3D8)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=9AA4B2)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=9AA4B2)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=9AA4B2)
-![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square&logo=pycharm&logoColor=9AA4B2)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=D0D3D8)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=D0D3D8)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=D0D3D8)
+![PyCharm](https://img.shields.io/badge/PyCharm-1a1a1a?style=flat-square&logo=pycharm&logoColor=D0D3D8)
 
 ### Currently Exploring
 
-```text
-AI / ML · LLMs · FastAPI · PyTorch
-```
-
----
+`AI / ML` · `LLMs` · `FastAPI` · `PyTorch`
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://gh-heat.anishroy.com/api/solosurfer-37/svg?theme=green&darkMode=true&bg=0d0d0d" width="90%" alt="GitHub contribution calendar" />
+<img src="https://gh-heat.anishroy.com/api/solosurfer-37/svg?theme=green&darkMode=true&bg=0d0d0d" width="100%" alt="GitHub contribution calendar" />
 
 </div>
-
----
 
 ## Connect
 
@@ -114,8 +105,8 @@ AI / ML · LLMs · FastAPI · PyTorch
 
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7)](https://github.com/solosurfer-37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=9AA4B2)](mailto:vanshk.0037@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=9AA4B2)](https://www.instagram.com/vxnshk.037/)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8)](mailto:vanshk.0037@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=D0D3D8)](https://www.instagram.com/vxnshk.037/)
 
 </div>
 
