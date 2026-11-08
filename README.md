@@ -29,6 +29,13 @@
 </tr>
 </table>
 
+<img
+  src="https://raw.githubusercontent.com/solosurfer-37/solosurfer-37/main/dist/pet.svg"
+  width="1000"
+  alt="My pixel pet"
+/>
+
+
 # VANSH KUMAR
 
 `Developer` · `Student` · `Builder`
@@ -121,11 +128,6 @@ I'm less interested in collecting technologies and more interested in understand
 <br />
 <code>────────────────────────────────────</code>
 
-<img
-  src="https://raw.githubusercontent.com/solosurfer-37/solosurfer-37/main/dist/pet.svg"
-  width="1000"
-  alt="My pixel pet"
-/>
 
 </div>
 </div>
