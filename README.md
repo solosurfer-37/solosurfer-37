@@ -145,9 +145,7 @@ AI / ML · LLMs · FastAPI · PyTorch
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge\&logo=instagram\&logoColor=9AA4B2)](https://www.instagram.com/vxnshk.037/)
 
 </div>
-
-<br /><br />
-
+<br />
 ---
 
 <br />
