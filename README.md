@@ -112,14 +112,14 @@ I'm less interested in collecting technologies and more interested in understand
 
 <div align="center">
 
-```text
-────────────────────────────────────
+<div align="center">
 
-learning in public.
-building in private.
-shipping when ready.
+<code>────────────────────────────────────</code><br />
+<br />
+<code>one more commit and then I'll sleep.</code><br />
+<code>(narrator: he did not sleep.)</code><br />
+<br />
+<code>────────────────────────────────────</code>
 
-────────────────────────────────────
-```
-
+</div>
 </div>
