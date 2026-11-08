@@ -42,10 +42,6 @@
 
 **Building things to understand how they work.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-solosurfer--37-1a1a1a?style=for-the-badge&logo=github&logoColor=F2F4F7&labelColor=2b2b2b)](https://github.com/solosurfer-37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh--kumar-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D0D3D8&labelColor=2b2b2b)](https://www.linkedin.com/in/vansh-kumar-042714377)
-[![Email](https://img.shields.io/badge/Email-vanshk.0037%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D0D3D8&labelColor=2b2b2b)](mailto:vanshk.0037@gmail.com)
-
 </div>
 
 ## Currently
