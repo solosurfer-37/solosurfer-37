@@ -45,7 +45,7 @@
 </div>
 
 <br />
-
+<img src="koi/koi.gif" width="256" alt="My koi">
 ---
 
 <br />
@@ -132,16 +132,6 @@ AI / ML · LLMs · FastAPI · PyTorch
 <br />
 
 <br />
-
-## Portfolio
-
-Everything I build eventually ends up here.
-
-[![Portfolio](https://img.shields.io/badge/vkportfolio.vercel.app-1a1a1a?style=for-the-badge\&logoColor=F2F4F7\&labelColor=2b2b2b)](https://vkportfolio.vercel.app/)
-
-<br />
-
----
 
 <br />
 
